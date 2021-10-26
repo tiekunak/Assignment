@@ -1,0 +1,82 @@
+<!--
+    Max note: 20pts
+
+    Structure - 2 pts
+    1. By only looking at the html document, identify and create the missing files.
+    2. Create a custom logo and use it.
+
+    Header - 3pts
+    1. Logo and navigation must be responsive. | Worths 2 pts.
+    2. Add an animation on hovering logo and items in the navigation.
+
+    Main - 3pts
+    1. Add a name to the h1 element and add that same name in the alt attribute in the header and footer's logo.
+    2. Add a picture of anything and add an alternate description to it.
+    3. Content in main must be responsive. 
+
+    Footer - 4pts
+    1. Background color must be dark themed or white themed and the logo the opposite color.
+    2. Center the Copyright.
+    3. Apply positioning to the footer so the logo stays to the left and the links to the right.
+    4. Content must be responsive.
+
+    CSS - 8pts
+    1. Add a background color to the header.
+    2. Add a background color to the footer
+    3. Erase the dots from the links
+    4. Erase the underline from the links
+    5. Position the links horizontally
+    6. The header must occupy a minimum of 80px in height.
+    7. The footer must occupy a minimum of 120px in height.
+    8. The main content must occupy the rest of the space, this means the footer should rest at the bottom regardless of the content.
+
+-->
+<!DOCTYPE html>
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+    <head>
+        <title>Final Assignment</title>
+        <link href="styles/site.css" rel="stylesheet" type="text/css" />
+    
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_SharedWithUsers msdt:dt="string">MSSA-CCAD3 Members</mso:display_urn_x003a_schemas-microsoft-com_x003a_office_x003a_office_x0023_SharedWithUsers>
+<mso:SharedWithUsers msdt:dt="string">7;#MSSA-CCAD3 Members</mso:SharedWithUsers>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+    <body>
+        <header style="background-color:rgb(173, 120, 120)">
+            <img style="width: 20%;transform: rotateY(360deg);" src="images/logo.jpg" alt="Fandango" />
+            <nav style="text-align: center;width: 80%;">
+                <ul style="list-style-type: none;display: inline;">                    
+                    <button style="transition-duration: 0.4s;"><li style="display: inline;"><a href="#" style="text-decoration: none;">Home</a></li></button>
+                    <button style="transition-duration: 0.4s;"><li style="display: inline;"><a href="#" style="text-decoration: none;">About</a></li></button>
+                    <button style="transition-duration: 0.4s;"><li style="display: inline;"><a href="#" style="text-decoration: none;">Contact</a></li></button>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <h1>Welcome to Fandango</h1>
+            <img style="max-width: 100%;height: auto;" src="images/new.jpg" alt="photo" />
+        </main>
+
+        <footer style="background-color: rgb(173, 120, 120);">
+            <div class="footer-top">
+                <img style="width: 20%;height: 100%;transform: rotateX(180deg);" src="images/logo.jpg" alt="Fandango" />
+
+            </div>
+            <div class="footer-bottom">
+                <p style="text-align: center;">Copyright | 2021 All rights reserved.</p>
+                <nav style="text-align: center;width: 50%;">
+                    <ul style="list-style-type: none;display: inline;">
+                        <button style="transition-duration: 0.4s;"><li style="display: inline;"><a href="#" style="text-decoration: none;">Home</a></li></button>
+                        <button style="transition-duration: 0.4s;"><li style="display: inline;"><a href="#" style="text-decoration: none;">About</a></li></button>
+                        <button style="transition-duration: 0.4s;"><li style="display: inline;"><a href="#" style="text-decoration: none;">Contact</a></li></button>
+                    </ul>
+                </nav>
+            </div>
+        </footer>
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
