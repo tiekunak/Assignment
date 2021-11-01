@@ -1,0 +1,26 @@
+1. obtain a number from the user.
+2. set an option to find out if the number obtained is equal to 0
+3. if the number is equal to 0, print "the result is 0.
+4. But if the number is not equal to 0, 
+5. Obtain the second number fromt he user
+6. compute number 1 * number 2 into variable results
+7. Print" the results"
+
+
+
+
+Pseudo code
+
+Start
+	print " Enter a number"
+	Define the variable number 1
+	
+	if number 1 = 0, 
+		print" the result is zero"
+	else, 
+		print "enter the second number"
+		Define the variable second number
+		Define variable results = number 1 * number 2
+		print" the result is = results
+End
+	

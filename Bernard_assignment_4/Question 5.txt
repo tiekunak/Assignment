@@ -1,0 +1,22 @@
+1. obtain a first number from the user.
+2. Obtain a second number fromt he user
+3. set an option to find out if the first number is greater than the second number
+4. if the first number is greater than the second number, print "the first number is bigger than the second number".
+5. But if the first number is not greater than the second number, print"the second number is bigger than the first number"
+
+
+Pseudo code
+
+Start
+	print " Enter a number"
+	Define the variable number 1
+
+	print "enter the second number"
+	Define the variable second number 2
+	
+	
+	if number 1 > number 2, 
+		print"the first number is bigger than the second number"
+	else, 
+		print"the second number is bigger than the first number"
+End

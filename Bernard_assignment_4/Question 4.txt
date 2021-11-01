@@ -1,0 +1,26 @@
+1. obtain a first number from the user.
+2. Obtain a second number fromt he user
+3. set an option to find out if the second number obtained is equal to 0
+4. if the second number is equal to 0, print "infinity".
+5. But if the second number is not equal to 0, 
+6. compute number 1 / number 2 into variable results
+7. Print" the results"
+
+
+
+Pseudo code
+
+Start
+	print " Enter a number"
+	Define the variable number 1
+
+	print "enter the second number"
+	Define the variable second number 2
+	
+	
+	if number 1 = 0, 
+		print" the result is zero"
+	else, 
+		Define variable results = number 1 * number 2
+		print" the result is = results"
+End

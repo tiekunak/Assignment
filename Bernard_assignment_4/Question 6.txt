@@ -1,0 +1,23 @@
+1. obtain a first number from the user.
+2. know what even numbers and odd numbers are
+3. Even numbers are divisible by 2 with no remainders
+3. set an option to find out if the first number is divisible by 2 with no remainder.
+4. if operation has no remainder, print "the number is an even number".
+5. But if the operation has remainders, print"the number is an odd number" 
+
+
+
+Pseudo code
+
+Start
+	print " Enter a number"
+	Define the variable number 1
+
+	Define the variable result = number % 2
+	
+	
+	if result = 0, 
+		print"the number is an even number"
+	else, 
+		print"the number is an odd number"
+End

@@ -1,0 +1,20 @@
+1. identify the pass grade
+2. ask the student for the course grade
+3. set an option to compare the student course grade and pass grade
+4. if the student course grade greater or equal to the pass grade, write the student has passed.
+5. if the student course grade is not greater or equal to the pass grade, write the student did not passed. 
+
+
+Pseodo Code
+
+Start
+	Write a sentence to ask for the student's grade
+	Define the variable student grade
+
+	Define a constant pass grade
+	
+	if the student grade is greater or equal to the pass grade, 
+		print "you passed successfully"
+	else, 
+		print "you failed the course"
+End

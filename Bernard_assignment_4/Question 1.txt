@@ -1,0 +1,7 @@
+1. identify the one you want to cal the income
+2. ask the person where the place of work
+3. ask for the person's hourly wage
+4. ask the number of hours for a week
+5. ask if the person works during the whole week or fives days in a week
+6. multiply (hourly wages + overtime) by (weekly hours worked + overtime work hours)
+7. multiply value gotten by 4 which will be equal to monthly gross income.  
