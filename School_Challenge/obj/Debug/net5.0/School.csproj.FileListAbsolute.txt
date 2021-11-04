@@ -1,0 +1,32 @@
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.csproj.AssemblyReference.cache
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.GeneratedMSBuildEditorConfig.editorconfig
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.AssemblyInfoInputs.cache
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.AssemblyInfo.cs
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.csproj.CoreCompileInputs.cache
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\School.exe
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\School.deps.json
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\School.runtimeconfig.json
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\School.runtimeconfig.dev.json
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\School.dll
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\ref\School.dll
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\bin\Debug\net5.0\School.pdb
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.dll
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\ref\School.dll
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.pdb
+L:\Desktop\MSSA\20483-Programming-in-C-Sharp\myExercices\School\obj\Debug\net5.0\School.genruntimeconfig.cache
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\School.exe
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\School.deps.json
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\School.runtimeconfig.json
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\School.runtimeconfig.dev.json
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\School.dll
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\ref\School.dll
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\bin\Debug\net5.0\School.pdb
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.csproj.AssemblyReference.cache
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.AssemblyInfoInputs.cache
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.AssemblyInfo.cs
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.csproj.CoreCompileInputs.cache
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.dll
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\ref\School.dll
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.pdb
+C:\Users\Nana Tieku\Desktop\C#\MSSA-main\MSSA-main\Activities\20483C-ProgramminginC#\Challenges\2Methods-School\obj\Debug\net5.0\School.genruntimeconfig.cache
