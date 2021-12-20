@@ -1,0 +1,16 @@
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\CollectionAss.exe
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\CollectionAss.deps.json
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\CollectionAss.runtimeconfig.json
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\CollectionAss.runtimeconfig.dev.json
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\CollectionAss.dll
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\ref\CollectionAss.dll
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\bin\Debug\net5.0\CollectionAss.pdb
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.csproj.AssemblyReference.cache
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.AssemblyInfoInputs.cache
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.AssemblyInfo.cs
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.csproj.CoreCompileInputs.cache
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.dll
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\ref\CollectionAss.dll
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.pdb
+C:\Users\Nana Tieku\source\repos\CollectionAss\CollectionAss\obj\Debug\net5.0\CollectionAss.genruntimeconfig.cache
