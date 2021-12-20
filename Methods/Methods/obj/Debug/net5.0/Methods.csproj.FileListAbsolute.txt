@@ -1,0 +1,16 @@
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\Nana Tieku\source\repos\Methods\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\Nana Tieku\source\repos\Methods\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
